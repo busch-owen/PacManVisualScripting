@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Unreal/UnrealProjects/PacManVisualScripting/NotPacMan/Content/OwenAssets/Blueprints/BP_GhostController.uasset",
+				"G:/Unreal/UnrealProjects/PacManVisualScripting/NotPacMan/Content/OwenAssets/Blueprints/BP_Ghost.uasset",
+				"G:/Unreal/UnrealProjects/PacManVisualScripting/NotPacMan/Content/OwenAssets/StaticMesh/Materials/Body.uasset",
+				"G:/Unreal/UnrealProjects/PacManVisualScripting/NotPacMan/Content/OwenAssets/StaticMesh/Materials/Eyes.uasset",
 				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Blueprints/BP_NOTPacMan.uasset",
 				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/StaticMesh/Materials/Mouth.uasset",
