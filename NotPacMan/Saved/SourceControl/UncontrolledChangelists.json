@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Blueprints/BP_NOTPacMan.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/StaticMesh/Materials/Mouth.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/StaticMesh/Materials/Skin.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/StaticMesh/pacman.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Blueprints/BP_PacController.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Input/IMC_Pac.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Input/IA_Move.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Levels/Level_PacManLevel.umap",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Blueprints/PacManGamemode.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Materials/Walls.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Materials/Floor.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Blueprints/BP_ScreenWrap.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Levels/Level_PacManLevel_BuiltData.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Blueprints/BP_Ghost.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/Blueprints/BP_GhostController.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/JO/RWLPSVNOUZTLOSMCSVDFTV.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/StaticMesh/Materials/pacman.uasset",
+				"D:/UnrealEngine/PacManVisualScripting/NotPacMan/Content/OwenAssets/IA_Move.uasset"
 			]
 		}
 	]
